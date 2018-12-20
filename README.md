@@ -58,7 +58,7 @@ Link to Sprint Planning Notes: [Sprint Notes](https://docs.google.com/document/d
 
 ## Video Demo
 
-Link to the video presentation can be found [here](https://youtu.be/EBXnpds9feM) and the Presentation can be foud [here](https://docs.google.com/presentation/d/1WPi6UF4ckUZiQmtq6udYDlnllftlWRCZfq5lSSFoss8/edit?usp=sharing).
+Link to the video presentation can be found [here](https://www.youtube.com/watch?v=Mik6BMDDnkE&) and the Presentation can be foud [here](https://docs.google.com/presentation/d/1WPi6UF4ckUZiQmtq6udYDlnllftlWRCZfq5lSSFoss8/edit?usp=sharing).
 
 The total length of the video presentation is approximately 20 minutes. To see a specific section of the video follow the respective links:
 
