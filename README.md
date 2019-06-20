@@ -110,6 +110,7 @@ sudo apt-get install ros-kinetic-velocity-controllers ros-kinetic-ros-control
 sudo apt-get install ros-kinetic-position-controllers ros-kinetic-joint-state-controller
 sudo apt-get install ros-kinetic-joint-trajectory-controller ros-kinetic-moveit
 sudo apt install ros-kinetic-gazebo-ros-control
+sudo apt-get install ros-kinetic-ros-control ros-kinetic-ros-controllers
 ```
 
 ## Installation of Additional Packages (REQUIRED)
